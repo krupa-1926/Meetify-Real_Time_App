@@ -97,7 +97,7 @@ zoom-clone/
 ### 1. Clone the Repository
 
   ```bash
-    git clone https://github.com/your-username/zoom-clone.git
+    git clone https://github.com/Ritik-Thakur-sudo/zoom-clone.git
     cd zoom-clone
   ```
     
