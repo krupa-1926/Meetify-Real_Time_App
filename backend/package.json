@@ -12,7 +12,13 @@
     "prod": "pm2 src/app.js"
   },
   "author": "Ritik Thakur",
-  "keywords": ["express", "node", "socket.io", "mongoose", "zoom-clone"],
+  "keywords": [
+    "express",
+    "node",
+    "socket.io",
+    "mongoose",
+    "zoom-clone"
+  ],
   "license": "ISC",
   "description": "",
   "dependencies": {
@@ -21,6 +27,7 @@
     "dotenv": "^17.2.0",
     "express": "^5.1.0",
     "http-status": "^2.1.0",
+    "jsonwebtoken": "^9.0.3",
     "mongoose": "^8.16.3",
     "nodemon": "^3.1.10",
     "socket.io": "^4.8.1"

@@ -1,9 +1,10 @@
 import httpStatus from "http-status";
 import { User } from "../models/user.model.js";
 import bcrypt from "bcrypt";
-
 import crypto from "crypto";
 import { Meeting } from "../models/meeting.model.js";
+// const jwt = require("jsonwebtoken")
+
 const login = async (req, res) => {
   const { username, password } = req.body;
 
