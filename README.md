@@ -59,7 +59,7 @@ Deployed on **Render** with MongoDB Atlas.
 ## Folder Structure
 
 ```plaintext
-zoom-clone/
+Meetify-Real_Time_App/
 │── backend/ # Node.js + Express + Socket.IO API
 │ ├── src/
 │ │ ├── app.js # Main entry point
@@ -98,7 +98,7 @@ zoom-clone/
 
   ```bash
     git clone https://github.com/krupa-1926/Meetify-Real_Time_App.git
-    cd zoom-clone
+    cd Meetify-Real_Time_App
   ```
     
 ### 2. Setup Backend
