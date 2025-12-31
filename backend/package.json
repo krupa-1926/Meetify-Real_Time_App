@@ -11,7 +11,7 @@
     "start": "node src/app.js",
     "prod": "pm2 src/app.js"
   },
-  "author": "Ritik Thakur",
+  "author": "Krupa Patel",
   "keywords": [
     "express",
     "node",
