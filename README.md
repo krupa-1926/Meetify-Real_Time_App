@@ -13,8 +13,8 @@ This app supports **real-time video calls, chat messaging, meeting history, and 
 
 Deployed on **Render** with MongoDB Atlas.  
 
-🔗 **Live Demo**: [Frontend Link](https://zoom-frontend-x0jb.onrender.com)  
-🔗 **Backend API**: [Backend Link](https://zoom-backend-uau8.onrender.com)  
+🔗 **Live Demo**: [Frontend Link](https://zoomappfrontend.vercel.app)  
+🔗 **Backend API**: [Backend Link](https://zoom-app-backend.onrender.com)  
 
  ## Demo Credentials
 
@@ -52,7 +52,7 @@ Deployed on **Render** with MongoDB Atlas.
 - **Backend**: Node.js, Express.js, Socket.IO  
 - **Database**: MongoDB Atlas  
 - **Real-Time**: WebRTC + Socket.IO  
-- **Deployment**: Render (Frontend + Backend)  
+- **Deployment**: vercel (Frontend) + Render (Backend)  
 
 ---
 
@@ -97,7 +97,7 @@ zoom-clone/
 ### 1. Clone the Repository
 
   ```bash
-    git clone https://github.com/Ritik-Thakur-sudo/zoom-clone.git
+    git clone https://github.com/krupa-1926/Meetify-Real_Time_App.git
     cd zoom-clone
   ```
     
@@ -138,7 +138,10 @@ zoom-clone/
 
   - Deploy
 
-### Frontend (Render)
+### Frontend (vercel)
+  - Push repo to GitHub
+
+  - Create a New Project on Vercel with frontend/ as root
 
   - Deploy the frontend/ folder
 
@@ -178,4 +181,4 @@ Pull requests are welcome! For significant changes, please open an issue to disc
 --- 
 
 ## Author 
-  Built by Ritik Thakur
+  Built by Krupa Patel
